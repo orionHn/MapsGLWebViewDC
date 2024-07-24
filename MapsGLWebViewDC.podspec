@@ -26,7 +26,7 @@ TODO: Add long description of the pod here.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'orion' => 'cengiz.parlak@orioninc.com' }
   s.source           = { :git => 'https://github.com/orionHn/mapsgl-ios-webview.git', :tag => s.version.to_s }
-  s.resources = "MapsGLWebViewDC/Assets/HTML/mapview.html"
+  s.resources        = "MapsGLWebViewDC**/*"
   s.swift_version = '5.0' 
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
