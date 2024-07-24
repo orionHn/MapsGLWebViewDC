@@ -1,6 +1,6 @@
 # MapsGLWebViewDC
 
-[![CI Status](https://img.shields.io/travis/connectinno/MapsGLWebViewDC.svg?style=flat)](https://travis-ci.org/connectinno/MapsGLWebViewDC)
+[![CI Status](https://img.shields.io/travis/orionHn/MapsGLWebViewDC.svg?style=flat)](https://travis-ci.org/orionHn/MapsGLWebViewDC)
 [![Version](https://img.shields.io/cocoapods/v/MapsGLWebViewDC.svg?style=flat)](https://cocoapods.org/pods/MapsGLWebViewDC)
 [![License](https://img.shields.io/cocoapods/l/MapsGLWebViewDC.svg?style=flat)](https://cocoapods.org/pods/MapsGLWebViewDC)
 [![Platform](https://img.shields.io/cocoapods/p/MapsGLWebViewDC.svg?style=flat)](https://cocoapods.org/pods/MapsGLWebViewDC)
@@ -22,7 +22,7 @@ pod 'MapsGLWebViewDC'
 
 ## Author
 
-connectinno, cengiz.parlak@orioninc.com
+orion, cengiz.parlak@orioninc.com
 
 ## License
 

@@ -3,16 +3,16 @@
   "version": "0.1.0",
   "summary": "A short description of MapsGLWebViewDC.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/connectinno/MapsGLWebViewDC",
+  "homepage": "https://github.com/orionHn/MapsGLWebViewDC",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "connectinno": "cengiz.parlak@orioninc.com"
+    "orion": "cengiz.parlak@orioninc.com"
   },
   "source": {
-    "git": "https://github.com/connectinno/MapsGLWebViewDC.git",
+    "git": "https://github.com/orionHn/MapsGLWebViewDC.git",
     "tag": "0.1.0"
   },
   "platforms": {
