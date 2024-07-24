@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MapsGLWebViewDC'
-  s.version          = '0.0.1'
+  s.version          = '0.0.3'
   s.summary          = 'A short description of MapsGLWebViewDC. This package will be used on Deercast to support Maps GL maps'
 
 # This description is used to generate tags and improve search results.
