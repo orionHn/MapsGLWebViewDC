@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MapsGLWebViewDC'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of MapsGLWebViewDC.'
+  s.version          = '0.0.1'
+  s.summary          = 'A short description of MapsGLWebViewDC. This package will be used on Deercast to support Maps GL maps'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,14 +21,16 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/connectinno/MapsGLWebViewDC'
+  s.homepage         = 'https://github.com/orionHn/mapsgl-ios-webview'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'connectinno' => 'cengiz.parlak@orioninc.com' }
-  s.source           = { :git => 'https://github.com/connectinno/MapsGLWebViewDC.git', :tag => s.version.to_s }
+  s.author           = { 'orion' => 'cengiz.parlak@orioninc.com' }
+  s.source           = { :git => 'https://github.com/orionHn/mapsgl-ios-webview.git', :tag => s.version.to_s }
+  s.resources = "MapsGLWebViewDC/Assets/HTML/mapview.html"
+  s.swift_version = '5.0' 
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '14.0'
 
   s.source_files = 'MapsGLWebViewDC/Classes/**/*'
   
@@ -37,6 +39,6 @@ TODO: Add long description of the pod here.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.frameworks = 'UIKit', 'Foundation'
+  s.dependency 'WKWebViewJavascriptBridge', '~> 1.2.2'
 end

@@ -1,0 +1,22 @@
+{
+  "name": "MapsGLWebViewDC",
+  "version": "0.1.0",
+  "summary": "A short description of MapsGLWebViewDC.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/connectinno/MapsGLWebViewDC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "connectinno": "cengiz.parlak@orioninc.com"
+  },
+  "source": {
+    "git": "https://github.com/connectinno/MapsGLWebViewDC.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MapsGLWebViewDC/Classes/**/*"
+}

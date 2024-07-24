@@ -1,0 +1,6 @@
+framework module MapsGLWebViewDC {
+  umbrella header "MapsGLWebViewDC-umbrella.h"
+
+  export *
+  module * { export * }
+}

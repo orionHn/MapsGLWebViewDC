@@ -1,0 +1,16 @@
+PODS:
+  - MapsGLWebViewDC (0.1.0)
+
+DEPENDENCIES:
+  - MapsGLWebViewDC (from `../`)
+
+EXTERNAL SOURCES:
+  MapsGLWebViewDC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MapsGLWebViewDC: 2ba21dd5ff55bcdee58365d6f8612ea388d30ac6
+
+PODFILE CHECKSUM: f7b96f47ff4fdd7cb749271ecaea098a87bae5a5
+
+COCOAPODS: 1.15.0

@@ -1,0 +1,6 @@
+framework module Pods_MapsGLWebViewDC_Tests {
+  umbrella header "Pods-MapsGLWebViewDC_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
